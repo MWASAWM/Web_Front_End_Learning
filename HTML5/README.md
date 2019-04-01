@@ -19,7 +19,7 @@
 
 ~~~html
 <body>
-    <h1>First Level Headline</h1>
+    <h1>First Level Header</h1>
     <p>
         Paragraph
     </p>
@@ -52,6 +52,14 @@
 <i>Italics</i>
 <u>Underline</u>
 ~~~
+
+~~~html
+<div style="color:#00FF00">
+  <h3>This is a header</h3>
+  <p>This is a paragraph.</p>
+</div>
+~~~
+
 
 
 
