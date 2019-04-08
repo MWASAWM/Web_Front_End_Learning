@@ -27,13 +27,6 @@
 ~~~
 
 ~~~html
-<a href="www.baidu.com">baidu</a>
-<img src="......" width=..px height=..px />
-<hr> horizontal line
-<!--Notes-->
-~~~
-
-~~~html
 <p>
     123<br>456<br>789
 </p>
@@ -60,6 +53,70 @@
 </div>
 ~~~
 
+~~~html
+<dl>
+   <dt>first_definition</dt>
+   <dd>......</dd>
+   <dt>second_definition</dt>
+   <dd>......</dd>
+</dl>
+~~~
 
+~~~html
+<abbr title="Hypertext Markup Language">HTML</abbr>
+<mark>Hypertext Markup Language</mark>
+~~~
 
+~~~html
+<table>
+	<thead>
+		<tr>
+			<th>Course</th>
+			<th>Duration</th>
+		</tr>
+		<tr>
+			<td>Course</td>
+			<td>Duration</td>
+		</tr>
+		<tr>
+			<td>Course</td>
+			<td>Duration</td>
+		</tr>
+		<tr>
+			<td>Course</td>
+			<td>Duration</td>
+		</tr>
+	</thead>
+</table>
+~~~
 
+~~~html
+<form>
+	<label for="username">Username</label>
+	<input type="text" placeholder="Username" id="username">
+	<button type="submit">Submit</button>
+	<button type="reset">Reset</button>
+</form>
+~~~
+
+~~~html
+<label>
+	<form>
+		<input type="checkbox" name="Course" value="html">
+			html
+		<input type="checkbox" name="Course" value="css">
+			css
+		<input type="radio" name="Course" value="javascript">
+			javascript
+	</form>
+</label>
+~~~
+
+~~~html
+<header>
+	<nav>
+		<h2>Navigation</h2>
+	</nav>
+</header>
+<footer> &copy; https://github.com/MWASAWM
+~~~
