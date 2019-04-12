@@ -1,19 +1,14 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
 import Notes from './components/Notes'
-import './index.css'
 import 'semantic-ui-css/semantic.min.css'
-
+import './index.css'
 
 class App extends Component {
-  render() {
+  render () {
     return (
-      <div>
-        
-				<Notes />
-      </div>
-    );
+      <Notes />
+    )
   }
 }
 
-export default App;
+export default App
