@@ -1,6 +1,6 @@
 # Web_Front_End_Learning
 ## HTML
--[HTML5](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/HTML5)  
+[HTML5](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/HTML5)  
 
 ## CSS
 [Sass](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Sass)  
