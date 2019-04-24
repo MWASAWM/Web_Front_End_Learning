@@ -8,6 +8,7 @@
 - [LESS](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/LESS)
 
 ## Javascript
+
 - [jQuery](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/jQuery)  
 - [Typescript](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Typescript)  
 - [ECMAScript6](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/ECMAScript6)  
@@ -17,6 +18,7 @@
 - [Vue.js](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Vue.js)  
 - [Angular.js](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Angular.js)  
 - [正则表达式](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/正则表达式)  
+- [Javascript](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Javascript)
 
 ## 开发框架
 - [Bootstrap](https://github.com/MWASAWM/Web_Front_End_Learning/tree/master/Bootstrap)  
